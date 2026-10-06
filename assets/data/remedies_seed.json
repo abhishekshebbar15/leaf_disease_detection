@@ -1,0 +1,23 @@
+[
+  {
+    "id": "apple_scab",
+    "disease_name": "Apple Scab",
+    "scientific_description": "A fungal disease caused by Venturia inaequalis affecting leaves and fruit, causing olive-green to black velvety spots.",
+    "chemical_remedies": "[\"Captan 50 WP at 2g per liter of water\", \"Mancozeb 75 WP at 2.5g per liter\"]",
+    "organic_remedies": "[\"Prune and destroy infected fallen leaves\", \"Apply 1% neem oil spray periodically\", \"Ensure proper canopy aeration\"]"
+  },
+  {
+    "id": "tomato_early_blight",
+    "disease_name": "Tomato Early Blight",
+    "scientific_description": "Fungal infection caused by Alternaria solani, characterized by dark concentric rings forming target-like patterns on older foliage.",
+    "chemical_remedies": "[\"Chlorothalonil at 2ml per liter\", \"Copper Oxychloride at 3g per liter\"]",
+    "organic_remedies": "[\"Maintain crop rotation\", \"Apply organic mulch around base to prevent soil splash\", \"Remove lower diseased foliage\"]"
+  },
+  {
+    "id": "corn_gray_leaf_spot",
+    "disease_name": "Corn Gray Leaf Spot",
+    "scientific_description": "Foliar disease caused by Cercospora zeae-maydis presenting as rectangular, brown lesions running parallel with leaf veins.",
+    "chemical_remedies": "[\"Azoxystrobin at 1ml per liter\", \"Pyraclostrobin applied at tassel emergence\"]",
+    "organic_remedies": "[\"Plant disease-tolerant hybrid varieties\", \"Practice conventional tillage to bury infected residue\", \"Avoid overhead irrigation\"]"
+  }
+]
